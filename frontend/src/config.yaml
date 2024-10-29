@@ -1,0 +1,22 @@
+models:
+  - id: 'logistic-regression'  # Model 1
+    name: 'Logistic Regression'
+    serverUrl: 'http://localhost:5001/predict'
+  - id: 'cnn'  # Model 2
+    name: 'Convolutional Neural Network (CNN)'
+    serverUrl: 'http://localhost:5002/predict'
+  # - id: 'cnb'  # Model 3
+  #   name: 'Complement Naive Bayes'
+  #   serverUrl: 'http://localhost:5003/predict'
+  - id: 'xgboost'  # Model 4
+    name: 'XG Boost'
+    serverUrl: 'http://localhost:5004/predict'
+  - id: 'knn'  # Model 5
+    name: 'K-Nearest Neighbours (KNN)'
+    serverUrl: 'http://localhost:5005/predict'
+  # - id: 'sgd'  # Model 6
+  #   name: 'Stochastic Gradient Descent (SGD) Classifier'
+  #   serverUrl: 'http://localhost:5006/predict' 
+  - id: 'lgbm'  # Model 7
+    name: 'Light Gradient Boosting Machine (LGBM)'
+    serverUrl: 'http://localhost:5007/predict'
