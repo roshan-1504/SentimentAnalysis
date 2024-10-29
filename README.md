@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 
 Links for the datasets: 
-Sentiment140 (https://www.kaggle.com/datasets/kazanova/sentiment140)
+Sentiment140 (https://www.kaggle.com/datasets/kazanova/sentiment140) /
 Instagram Reviews (https://www.kaggle.com/datasets/bwandowando/3-million-instagram-google-store-reviews)
 
 **Sentiment Analysis as a Service**
